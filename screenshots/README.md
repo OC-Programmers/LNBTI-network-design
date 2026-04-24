@@ -2,17 +2,18 @@
 
 ### 🔹 Overall Network Topology
 
-![Topology](screenshots/topology-overview.png)
+![Topology](full topology.png)
 
 ### 🔹 VLAN Configuration
 
-![VLAN](screenshots/vlan-configuration.png)
+![VLAN](VLAN structure.png)
 
 ### 🔹 DHCP Configuration
 
-![DHCP](screenshots/dhcp-configuration.png)
+![DHCP](DHCP configuration.png)
 
 ### 🔹 Floor-Level Network Layout
 
-![Floor](screenshots/floor-network.png)
+![Floor](3rd floor.png)
+
 
